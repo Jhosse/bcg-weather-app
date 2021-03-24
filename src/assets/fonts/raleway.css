@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'ralewayBlack';
+  src: local('ralewayBlack'), url('./static/Raleway-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'ralewayBold';
+  src: local('ralewayBold'), url('./static/Raleway-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'ralewayRegular';
+  src: local('ralewayRegular'), url('./static/Raleway-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'ralewayThin';
+  src: local('ralewayThin'), url('./static/Raleway-Thin.ttf') format('truetype');
+}
